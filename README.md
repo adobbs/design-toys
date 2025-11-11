@@ -1,10 +1,10 @@
-# Design Toys
+# Design Token Builder
 
 Interactive tools for visualizing and creating design system tokens.
 
 ## Overview
 
-Design Toys is a Next.js application that helps you visualize and make decisions about foundational style choices for a design system. Configure color palettes, typography scales, border radius, and shadows in real-time, with instant visual feedback.
+Design Token Builder is a Next.js application that helps you visualize and make decisions about foundational style choices for a design system. Configure color palettes, typography scales, border radius, and shadows in real-time, with instant visual feedback.
 
 ## Features
 
