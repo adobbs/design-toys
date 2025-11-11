@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Design Toys - Design System Tool",
+  title: "Design Token Builder - Design System Tool",
   description: "Interactive tools for visualizing and creating design system tokens",
 };
 
